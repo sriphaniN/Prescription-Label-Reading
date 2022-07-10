@@ -22,6 +22,18 @@ paddleOCR
 paddlepaddle
 gTTS
 
+Project Title: Prescription Label Reading
+
+
+Technologies: Deep Learning Technology (Computer Vision)
+
+
+Domain: Healthcare
+
+
+Project Difficulties level: Intermediate
+
+
 image path: https://github.com/sriphaniN/Prescription-Label-Reading/blob/87a76e740511d6bca6165d629ffbb7e6b7090a79/project3/result.jpg
 
 audio path: https://github.com/sriphaniN/Prescription-Label-Reading/blob/87a76e740511d6bca6165d629ffbb7e6b7090a79/project3/good.mp3
