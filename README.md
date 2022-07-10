@@ -13,9 +13,18 @@ everything about your medication. Dosage info can also be tracked and shared wit
 caregivers.
 
 
-Approach: You need to apply OCR techniques to extract the text data from the 
-prescriptions and convert them into speech
+Approach: You need to apply OCR techniques to extract the text data from the prescriptions and convert them into speech.
 
+
+
+installations done:
+paddleOCR
+paddlepaddle
+gTTS
+
+image path: https://github.com/sriphaniN/Prescription-Label-Reading/blob/87a76e740511d6bca6165d629ffbb7e6b7090a79/project3/result.jpg
+
+audio path: https://github.com/sriphaniN/Prescription-Label-Reading/blob/87a76e740511d6bca6165d629ffbb7e6b7090a79/project3/good.mp3
 
 video path: https://github.com/sriphaniN/Prescription-Label-Reading/blob/8fd249349015a089f980d82aca6625f9ea2deea6/project3/label%20reading.mp4
 
