@@ -40,4 +40,4 @@ audio path: https://github.com/sriphaniN/Prescription-Label-Reading/blob/87a76e7
 
 video path: https://github.com/sriphaniN/Prescription-Label-Reading/blob/8fd249349015a089f980d82aca6625f9ea2deea6/project3/label%20reading.mp4
 
-depolyment link: https://27331.gradio.app/
+
